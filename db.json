@@ -66,5 +66,154 @@
       "petsAllowed": false,
       "organizer": "Brody Kill"
     }
+  ],
+  "passengers": [
+    {
+      "id": 1,
+      "fname": "Izuku",
+      "lname": "Midoriya",
+      "birth": "2003-07-15",
+      "gender": "Male",
+      "passport": "HERO001",
+      "nationality": "Japan",
+      "email": "izuku.midoriya@ua.com",
+      "phone": "321-654-9870",
+      "address": "Musutafu, Japan",
+      "airline_id": 1712
+    },
+    {
+      "id": 2,
+      "fname": "Katsuki",
+      "lname": "Bakugo",
+      "birth": "2003-04-20",
+      "gender": "Male",
+      "passport": "HERO002",
+      "nationality": "Japan",
+      "email": "katsuki.bakugo@ua.com",
+      "phone": "234-567-8910",
+      "address": "Musutafu, Japan",
+      "airline_id": 1712
+    },
+    {
+      "id": 3,
+      "fname": "Ochaco",
+      "lname": "Uraraka",
+      "birth": "2003-12-27",
+      "gender": "Female",
+      "passport": "HERO003",
+      "nationality": "Japan",
+      "email": "ochaco.uraraka@ua.com",
+      "phone": "345-678-9012",
+      "address": "Musutafu, Japan",
+      "airline_id": 1621
+    },
+    {
+      "id": 4,
+      "fname": "Shoto",
+      "lname": "Todoroki",
+      "birth": "2003-01-11",
+      "gender": "Male",
+      "passport": "HERO004",
+      "nationality": "Japan",
+      "email": "shoto.todoroki@ua.com",
+      "phone": "456-789-0123",
+      "address": "Musutafu, Japan",
+      "airline_id": 1621
+    },
+    {
+      "id": 5,
+      "fname": "Tenya",
+      "lname": "Iida",
+      "birth": "2002-08-22",
+      "gender": "Male",
+      "passport": "HERO005",
+      "nationality": "Japan",
+      "email": "tenya.iida@ua.com",
+      "phone": "567-890-1234",
+      "address": "Musutafu, Japan",
+      "airline_id": 1712
+    },
+    {
+      "id": 6,
+      "fname": "Tsuyu",
+      "lname": "Asui",
+      "birth": "2003-02-12",
+      "gender": "Female",
+      "passport": "HERO006",
+      "nationality": "Japan",
+      "email": "tsuyu.asui@ua.com",
+      "phone": "678-901-2345",
+      "address": "Musutafu, Japan",
+      "airline_id": 1621
+    },
+    {
+      "id": 7,
+      "fname": "Momo",
+      "lname": "Yaoyorozu",
+      "birth": "2003-09-23",
+      "gender": "Female",
+      "passport": "HERO007",
+      "nationality": "Japan",
+      "email": "momo.yaoyorozu@ua.com",
+      "phone": "789-012-3456",
+      "address": "Musutafu, Japan",
+      "airline_id": 1712
+    },
+    {
+      "id": 8,
+      "fname": "Eijiro",
+      "lname": "Kirishima",
+      "birth": "2003-10-16",
+      "gender": "Male",
+      "passport": "HERO008",
+      "nationality": "Japan",
+      "email": "eijiro.kirishima@ua.com",
+      "phone": "890-123-4567",
+      "address": "Musutafu, Japan",
+      "airline_id": 1621
+    },
+    {
+      "id": 9,
+      "fname": "Fumikage",
+      "lname": "Tokoyami",
+      "birth": "2003-10-30",
+      "gender": "Male",
+      "passport": "HERO009",
+      "nationality": "Japan",
+      "email": "fumikage.tokoyami@ua.com",
+      "phone": "901-234-5678",
+      "address": "Musutafu, Japan",
+      "airline_id": 1712
+    },
+    {
+      "id": 10,
+      "fname": "Minoru",
+      "lname": "Mineta",
+      "birth": "2003-10-01",
+      "gender": "Male",
+      "passport": "HERO010",
+      "nationality": "Japan",
+      "email": "minoru.mineta@ua.com",
+      "phone": "012-345-6789",
+      "address": "Musutafu, Japan",
+      "airline_id": 1621
+    }
+  ],
+  "airlines": [
+    {
+      "id": 1712,
+      "name": "Hero Airlines",
+      "flightNumber": "HA123",
+      "departure": "Musutafu",
+      "arrival": "Tokyo"
+    },
+    {
+      "id": 1621,
+      "name": "UA Airways",
+      "flightNumber": "UA456",
+      "departure": "Musutafu",
+      "arrival": "Osaka"
+    }
   ]
+  
 }
